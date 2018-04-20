@@ -118,7 +118,7 @@
 .background-recipe img{
     background-size: cover;
     width: 100%;
-    height: 330%;
+    height: 571%;
     z-index: -1;
     position: absolute;
 }
@@ -145,13 +145,39 @@
     padding-top: 50px;
 
 }
-.caraml{
+.caraml p{
     font-family: 'Eczar', serif;
     font-size: 20px;
     padding: 50px 100px 0 100px;
 }
-.custer{
+.custer p{
     font-family: 'Eczar', serif;
     font-size: 20px;
     padding: 50px 100px 0 100px;
+}
+.caraml h3{
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    padding: 50px 100px 0 100px;
+}
+.custer h3{
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    padding: 50px 100px 0 100px;
+}
+.ingredients img {
+    width: 30%;
+    padding: 5%;
+}
+.custardo img {
+    width: 30%;
+    padding: 5%;
+}
+.finished img {
+    width: 30%;
+    padding: 5%;
+}
+.red-tree-2 img {
+    width: 59%;
+    transform: scaleX(-1);
 }
